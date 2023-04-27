@@ -28,5 +28,5 @@
 [Daha fazla güncelleme için bir ⭐ bırakın](github.com/denemexe/KeyDFU/stargazers)
 Bana destek olmak istersen DM'den yaz ⬇️⬇️⬇️
 Benimle iletişime geçmekten çekinmeyin, bu benim sosyal ağlarım:
-[Discord](https://discord.gg/zipkin)
-[İnstagram](https://www.instagram.com/bkayi19/)
+[Discord Server](https://discord.gg/zipkin)
+[Discord](xem#6666)
