@@ -4,7 +4,7 @@
  [Keydrop](https://key-drop.com/?code=XEMXW) üzerinde benim 'XEMXW' kodumu kullan
 ## Uzantı nasıl kurulur
 - [extension.zip](github.com/denemexe/KeyDFU/releases/) dosyasını indirin
-- Çıkarmak
+- Zip den çıkarın
 - Tarayıcı uzantısı sekmenizi açın
 - Geliştirici Modunu Etkinleştir
 - Ardından Paketlenmemiş olarak yükle düğmesini seçin ve klasör uzantısını seçin
