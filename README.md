@@ -21,8 +21,8 @@
 2. popup.js'yi metin veya kod düzenleyiciyle açın
 3. Ekleme işlevinden sonra 10. ve 11. satırlarda kod yakalama durumlarının sayısını değiştirin
 ``... splice(0, burada --> 3))`` varsayılan olarak 3'tür
-## YAPMAK
-- tam otomatik
+## Özellikler
+- tam otomatik bir şekilde savaş sayfasını açar
 
 ## Destek/İletişim
 [Daha fazla güncelleme için bir ⭐ bırakın](github.com/denemexe/KeyDFU/stargazers)
